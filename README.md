@@ -1,15 +1,28 @@
 <div id="header" align="center">
-  <h4>
+  <h3>
     Hi there 👋
-  </h4>
+  </h3>
   <img src="https://media.giphy.com/media/lhtRFkNxEfjaw/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/yulia-sevastyanova-766060129/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   </div>
 </div>
 
+---
+
+### About Me 
+I am a data analyst from Saint Petersburg, Russia. \
+On this GitHub, you'll find a collection of my projects that showcase my skills in data analysis. 
+
+### Languages and Tools 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
 <!--
