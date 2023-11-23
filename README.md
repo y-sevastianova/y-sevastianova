@@ -13,8 +13,9 @@
 ---
 
 ### About Me 
-I am a data analyst from Saint Petersburg, Russia. \
+I am a data analyst and before that a biostatistician in clinical trials. \
 On this GitHub, you'll find a collection of my projects that showcase my skills in data analysis. 
+
 
 ### Languages and Tools 
 <div>
