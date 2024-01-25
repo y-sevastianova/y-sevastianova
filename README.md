@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/yulia-sevastyanova-766060129/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
+    <a href="https://t.me/juliese">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
+    </a>
   </div>
 </div>
 
