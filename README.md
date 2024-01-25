@@ -3,14 +3,6 @@
     Hi there 👋
   </h3>
   <img src="https://media.giphy.com/media/lhtRFkNxEfjaw/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/yulia-sevastyanova-766060129/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://t.me/juliese">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-  </div>
 </div>
 
 ---
